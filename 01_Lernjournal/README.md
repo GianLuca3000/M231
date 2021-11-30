@@ -30,3 +30,13 @@ Spannender Einstieg, obwohl die Zeit fürs Plakat etwas knapp war.
 ### Anmerkungen
 
 Extrem Kurzweiliger Nachmittag. Das selbständige Einlesen in Markdown war echt spannend.
+
+## 3. 30.11.2021
+
+| Topics | Learnings |
+| ------ | --------- |
+
+
+### Anmerkungen
+
+Mir ist aufgefallen, wie es manchen SUS inkl. mir immer etwas schwerfällt am Ende des Inputs zu wissen was nun genau die Aufgaben sind. Muss mich mal nächste Woche danach erkundigen wie und wann genau das immer mitgeteilt wird.
