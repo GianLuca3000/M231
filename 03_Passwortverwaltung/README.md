@@ -1,13 +1,22 @@
 # Passwortverwaltung
 
 # Entscheidung
-*Suchen Sie sich mithilfe des Internets 3 verschiedene Passwortverwaltungsprogramme aus und vergleichen Sie diese mithilfe einer Tabelle. Nehmen Sie mindestens 10 möglichst messbare Kriterien.*
+|Name|Preis|Verschlüsselung|Brute-Force-Schutz|Quellcode|Authentifizierung|
+|---|---|---|---|---|---|
+|OnePassword|3.- per Monat|AES256|PBKDF2|Privat|Passwort|
+|KeePass|Kostenlos|AES256|Schlüsseltransformation|Öffentlich|Passwort / Schlüsseldatei /OTP (OATH/HOTP), Yubikey,Google Authenticator usw.|
+|Bitwarden|Kostenlos|AES256|PBKDF2|Öffentlich|Benutzername / Passwort, Authy, Google Authenticator Kostepflichtig: SMS, Yubikey|
+|SecureSafe|1.5 per Monat|AES256|PBKDF2|Privat|Benutzername / Passwort / mTAN (kostenpflichtig)|
+
+# Entscheid
+Entschieden habe ich mich am Ende für OnePassword. Primär kam dieser enscheid daher, da meine Firma auch OnePassword nutzt und ich so Zugriff auf geteilte Passwörter etc habe. So werden mir auch die 3CHF pro Monat erspart, da das auch ganz einfach die Firma bezahlt. DIe App an sich ist auch ziemlich einfach und Benutzerfreundlich gestaltet, indem es verschiedene Vorlagen für Passwörter gibt. Also z.B. Vorlagen für Logins aber auch Vorlagen um VisitenKarten abzuspeichern, was das ganze sehr handlich im Gebrauch macht.
 
 # Installation
-*Wie mussten Sie die/den Applikation/Service installieren/einrichten? Dokumentieren Sie die einzelnen Schritte, sodass eine Fachperson in der Lage ist ihre Schritte zu reproduzieren.*
+Da meine Firma meinen Firmencomputer schon aufgesetzt hatte, blieb mir das Installieren etc. erspart und ich kann auch nicht davon berichten.
 
 # Einrichtung
-*Können Sie ihre Daten (Passwörter, Keyfiles, usw.) im Passwortverwaltungsprogramm strukturieren? Auf welchen Geräten haben Sie das/den Programm/Service eingerichtet? Wie synchronisieren Sie die Daten? Versuchen Sie ein möglichst vollständiges Bild ihrer Konfiguration zu vermitteln.*
+Einrichten musste ich das OnePassword auch nicht selber. Jedoch kann ich von der Struktur erzählen und wie man ein neues Passwort abspeichert. Wie schon gesagt, gibt es im OnePassword verschiedene Vorlagen, welche wir benutzen müssen, um ein neues Passwort abzuspeichern. So können wir später unsere Passwörter, Visitenkarten und Logins nach deren Art strukturieren. Es ist auch möglich sich einen oder mehrere Favoriten zu machen um das ganze übersichtlicher zu gestelten. Wenn wir nach den einzelnen Logins suchen wollen, so haben wir ihnen allen beim Erstellen einen Titel geben müssen, mit welchem wir auch nach ihnen suchen können
 
 # Quellen
-*Führen Sie hier alle Quellen auf.*
+Die Infos zu den Managern sind von:
+https://docs.datenschutz.ch/u/d/publikationen/formulare-merkblaetter/merkblatt_passwortmanager.pdf
