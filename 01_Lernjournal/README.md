@@ -46,3 +46,15 @@ Mir ist aufgefallen, wie es manchen SUS inkl. mir immer etwas schwerfällt am En
 
 Der Nachmittag an sich war jedoch trotz des Homeoffice sehr spannend
 
+## 4. 07.12.2021
+
+...Leider habe ich heute gefehlt und kann desshalb nicht viel schreiben...
+
+### 4.1 Anmerkungen
+
+Keine
+
+## 5. 14.12.2021
+
+| Topics | Learnings |
+| ------ | --------- |
