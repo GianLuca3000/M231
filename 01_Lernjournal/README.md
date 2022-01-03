@@ -5,8 +5,8 @@
   - [1.1 Anmerkungen](#11-Anmerkungen)
 - [2. Lektion](#2-23112021)
   - [2.2 Anmerkungen](#22-Anmerkungen)
-- [2. Lektion](#3-01122021)
-  - [2.2 Anmerkungen](#23-Anmerkungen)
+- [3. Lektion](#3-01122021)
+  - [3.3 Anmerkungen](/#33-Anmerkungen/)
 
 
 ## 1. 16.11.2021
@@ -58,3 +58,10 @@ Keine
 
 | Topics | Learnings |
 | ------ | --------- |
+|Prüfung| *Lösen der Prüfung*|
+|Weiterarbeiten an den Passwortmanagern|Welche Kriterien sollte ein guter Passwortmanager erfüllen|
+
+# 5.5 Anmerkungen
+
+Die heutige Lektion war wieder einmal sehr spannend. Jedoch habe ich wohl die Prüfung ein wenig verhauen.
+
