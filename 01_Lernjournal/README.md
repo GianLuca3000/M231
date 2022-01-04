@@ -14,7 +14,7 @@
 - [6. Lektion](#6-04012022)
   - [6.1 Anmerkungen](#61-Anmerkungen)
 
-## 1. 16.11.2021
+# 1. 16.11.2021
 
 | Topics | Learnings |
 | ------ | --------- |
@@ -22,11 +22,13 @@
 | Afgaben zur Caesar verschlüsselung lösen | Wir haben verschiedene Verschlüsselungstechniken kennengelernt und sie auch angewendet |
 | Plakat zum Thema Datenschutz bearbeiten | Wir haben verschiedene dinge über Datenschutz, rechte im Bereich Personendaten etc. kennengelernt |
 
-### 1.1 Anmerkungen
+## 1.1 Anmerkungen
 
 Spannender Einstieg, obwohl die Zeit fürs Plakat etwas knapp war.
 
-## 2. 23.11.2021
+
+
+# 2. 23.11.2021
 
 | Topics | Learnings |
 | ------ | --------- |
@@ -35,47 +37,60 @@ Spannender Einstieg, obwohl die Zeit fürs Plakat etwas knapp war.
 | Git-repo erstellen | Wie man ein Git repo erstellt und in betrieb nimmt |
 | Html file zu Md übersetzen | Markdown Basics und schon etwas mehr im Thema Markdown |
 
-### 2.1 Anmerkungen
+## 2.1 Anmerkungen
 
 Extrem Kurzweiliger Nachmittag. Das selbständige Einlesen in Markdown war echt spannend.
 
-## 3. 30.11.2021
+
+
+# 3. 30.11.2021
 
 | Topics | Learnings |
 | ------ | --------- |
 |Aufgabe zu Passwortmanagern lösen|Wir haben die verschiedesten Aufgaben zu Passwortmanagern gelöst und diese kennengelernt|
 
-### 3.1 Anmerkungen
+## 3.1 Anmerkungen
 
 Mir ist aufgefallen, wie es manchen SUS inkl. mir immer etwas schwerfällt am Ende des Inputs zu wissen was nun genau die Aufgaben sind. Muss mich mal nächste Woche danach erkundigen wie und wann genau das immer mitgeteilt wird.
 
 Der Nachmittag an sich war jedoch trotz des Homeoffice sehr spannend
 
-## 4. 07.12.2021
+
+
+# 4. 07.12.2021
 
 ...Leider habe ich heute gefehlt, da ich krank war und kann desshalb nicht viel schreiben...
 
-### 4.1 Anmerkungen
+## 4.1 Anmerkungen
 
 Keine
 
-## 5. 14.12.2021
+
+
+# 5. 14.12.2021
 
 | Topics | Learnings |
 | ------ | --------- |
 |Prüfung| *Lösen der Prüfung*|
 |Weiterarbeiten an den Passwortmanagern|Welche Kriterien sollte ein guter Passwortmanager erfüllen|
 
-# 5.1 Anmerkungen
+## 5.1 Anmerkungen
 
 Die heutige Lektion war wieder einmal sehr spannend. Jedoch habe ich wohl die Prüfung ein wenig verhauen.
 
-## 6. 04.01.2022
+
+
+# 6. 04.01.2022
 
 | Topics | Learnings |
 | ------ | --------- |
 |Input zur Verschlüsselung von Daten|Wie funktioniert eine Verschlüsselung und was für verschiedene Arten gibt es|
 |Arbeit zu verschlüsselungen|Wie genau funktionieren die Private-Keys und wie die Public-Keys|
 
-# 6.1 Anmerkungen
+## 6.1 Anmerkungen
 
+Keine
+
+
+
+# 7. 
