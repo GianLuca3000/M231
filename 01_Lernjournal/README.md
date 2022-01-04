@@ -48,7 +48,7 @@ Der Nachmittag an sich war jedoch trotz des Homeoffice sehr spannend
 
 ## 4. 07.12.2021
 
-...Leider habe ich heute gefehlt und kann desshalb nicht viel schreiben...
+...Leider habe ich heute gefehlt, da ich krank war und kann desshalb nicht viel schreiben...
 
 ### 4.1 Anmerkungen
 
