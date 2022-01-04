@@ -11,6 +11,8 @@
 # Entscheid
 Entschieden habe ich mich am Ende für OnePassword. Primär kam dieser enscheid daher, da meine Firma auch OnePassword nutzt und ich so Zugriff auf geteilte Passwörter etc habe. So werden mir auch die 3CHF pro Monat erspart, da das auch ganz einfach die Firma bezahlt. DIe App an sich ist auch ziemlich einfach und Benutzerfreundlich gestaltet, indem es verschiedene Vorlagen für Passwörter gibt. Also z.B. Vorlagen für Logins aber auch Vorlagen um VisitenKarten abzuspeichern, was das ganze sehr handlich im Gebrauch macht.
 
+![Onepassword-Image](Screenshot-Onepassword.jpg)
+
 # Installation
 Da meine Firma meinen Firmencomputer schon aufgesetzt hatte, blieb mir das Installieren etc. erspart und ich kann auch nicht davon berichten. Das Backup von meinem Laptop und der Passwortdatenbank wird folglich auch von da übernommen.
 

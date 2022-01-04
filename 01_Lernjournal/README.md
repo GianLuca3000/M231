@@ -4,10 +4,15 @@
 - [1. Lektion](#1-16112021)
   - [1.1 Anmerkungen](#11-Anmerkungen)
 - [2. Lektion](#2-23112021)
-  - [2.2 Anmerkungen](#22-Anmerkungen)
+  - [2.1 Anmerkungen](#21-Anmerkungen)
 - [3. Lektion](#3-01122021)
-  - [3.3 Anmerkungen](/#33-Anmerkungen/)
-
+  - [3.1 Anmerkungen](#31-Anmerkungen)
+- [4. Lektion](#4-07122021)
+  - [4.1 Anmerkungen](#41-Anmerkungen)
+- [5. Lektion](#5-14122021)
+  - [5.1 Anmerkungen](#51-Anmerkungen)
+- [6. Lektion](#6-04012022)
+  - [6.1 Anmerkungen](#61-Anmerkungen)
 
 ## 1. 16.11.2021
 
@@ -61,7 +66,16 @@ Keine
 |Prüfung| *Lösen der Prüfung*|
 |Weiterarbeiten an den Passwortmanagern|Welche Kriterien sollte ein guter Passwortmanager erfüllen|
 
-# 5.5 Anmerkungen
+# 5.1 Anmerkungen
 
 Die heutige Lektion war wieder einmal sehr spannend. Jedoch habe ich wohl die Prüfung ein wenig verhauen.
+
+## 6. 04.01.2022
+
+| Topics | Learnings |
+| ------ | --------- |
+|Input zur Verschlüsselung von Daten|Wie funktioniert eine Verschlüsselung und was für verschiedene Arten gibt es|
+|Arbeit zu verschlüsselungen|Wie genau funktionieren die Private-Keys und wie die Public-Keys|
+
+# 6.1 Anmerkungen
 
