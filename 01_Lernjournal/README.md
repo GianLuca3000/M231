@@ -13,6 +13,8 @@
   - [5.1 Anmerkungen](#51-Anmerkungen)
 - [6. Lektion](#6-04012022)
   - [6.1 Anmerkungen](#61-Anmerkungen)
+- [7. Lektion](#7-11012022)
+  - [7.1 Anmerkungen](#71-Anmerkungen)
 
 # 1. 16.11.2021
 
@@ -93,4 +95,13 @@ Keine
 
 
 
-# 7. 
+# 7. 11.01.2022
+
+| Topics | Learnings |
+| ------ | --------- |
+|Theorie und Übung zum Ablagekonzept|Warum braucht es ein Ablagekonzept und was ist effektiv und was eher nicht auch haben wir auf unserem eigenen Pc begonnen, ein Ablagekonzept einzurichten.|
+|Quiz zum Repetieren|Nochmals aufgefrischt, was wir alles schon im Modul hatten und die learnings Letzter lektion nochmals geübt.|
+
+## 6.1 Anmerkungen
+
+Kurzweiliger Nachmittag
