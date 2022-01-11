@@ -1,6 +1,6 @@
 # Pinguine
 
-![Pinguin](Recources/Pinguin.jfif)
+![Pinguin](../08_Resources/Pinguin.jfif)
 
 Die Pinguine (Spheniscidae) sind eine Gruppe flugunfähiger [Seevögel](https://de.wikipedia.org/wiki/Meeresvogel) der [Südhalbkugel](https://de.wikipedia.org/wiki/S%C3%BCdhalbkugel) und bilden die einzige Familie in der Ordnung Sphenisciformes. Ihre stammesgeschichtliche Schwestergruppe bilden wahrscheinlich die Seetaucher (Gaviiformes) und Röhrennasen (Procellariiformes). Pinguine sind leicht von allen anderen Vögeln zu unterscheiden und in herausragender Weise an das Leben im Meer und in den teilweise extremen Kältezonen der Erde angepasst.
 
