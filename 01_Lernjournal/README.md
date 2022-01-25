@@ -1,6 +1,6 @@
-# Lernjournal  <!-- omit in toc -->
+# Lernjournal
 
-# Inhaltsverzeichnis  <!-- omit in toc -->
+# Inhaltsverzeichnis
 - [1. Lektion](#1-16112021)
   - [1.1 Anmerkungen](#11-Anmerkungen)
 - [2. Lektion](#2-23112021)
@@ -18,6 +18,10 @@
 
 # 1. 16.11.2021
 
+Heute haben wir das Modul kennengelern und erfahren, um was es in den nächsten Wochen gehen wird. Wir haben einen ersten Einblick in den Datenschutz erhalten und auch die Cäesar-Verschlüsselung kennengelernt. Zum Schluss haben wir dann auch noch ein Plakat zu verschiedenen Themen des Datenschutzes gestaltet.
+
+Dabei haben wir sehr viel darüber gelernt, was erlaubt ist beim Umgang mit Daten und was nicht, sowie wie genau die Cäsar-Verschlüsselung funktioniert und wie man sie entschlüsselt.
+
 | Topics | Learnings |
 | ------ | --------- |
 | Kennenlernen des neuen Moduls | Was genau werden wir in diesem Modul lernen und was auf uns zu kommt |
@@ -28,9 +32,13 @@
 
 Spannender Einstieg, obwohl die Zeit fürs Plakat etwas knapp war.
 
-
+[Nach oben](#Lernjournal)
 
 # 2. 23.11.2021
+
+Als Hausaufgabe hatten wir einen Text zum Thema Datenschutz gelesen, welcher uns dem Thema noch näher brachte. Am Anfang der Lektion haben wir dann unser Wissen aus dem Text in einem Quitz getestet und noch weiteres Wissen durch einen Vortrag zum Thema erhalten. Später in der Lektion, konnten wir damit beginnen, mit Git unser eigenes Repo zu eröffnen.
+
+In diesem Nachmittag haben wir unmengen an neuer Infos zum Thema Datenschutz erhalten und gelernt, wie man mit Git und Markdown umgeht und wie die ganze Syntax funktioniert
 
 | Topics | Learnings |
 | ------ | --------- |
@@ -43,12 +51,17 @@ Spannender Einstieg, obwohl die Zeit fürs Plakat etwas knapp war.
 
 Extrem Kurzweiliger Nachmittag. Das selbständige Einlesen in Markdown war echt spannend.
 
-
+[Nach oben](#Lernjournal)
 
 # 3. 30.11.2021
 
+Wir haben mit dem Thema Passwortmanager begonnen und unseren eigenen Passwortmanager bei uns eingerichtet. Am Anfang der Lektion haben wir zudem noch Infos dazu erhalten, wie ein Gutes Passwort aussehen sollte und wie Passwörter bzw. Verschlüsselung funktioniert.
+
+Wir haben gelernt, wie wir selber ein sicheres Passwort generieren und welche Passwortmanager welche Vorteile haben. Zudem konnten wir uns selber einen Passwortmanager aussuchen, welchen wir dann selbst heruntergeladen und eingerichtet haben.
+
 | Topics | Learnings |
 | ------ | --------- |
+|Input zu Passwortmanagern|Was genau ist ein Passwortmanager|
 |Aufgabe zu Passwortmanagern lösen|Wir haben die verschiedesten Aufgaben zu Passwortmanagern gelöst und diese kennengelernt|
 
 ## 3.1 Anmerkungen
@@ -57,7 +70,7 @@ Mir ist aufgefallen, wie es manchen SUS inkl. mir immer etwas schwerfällt am En
 
 Der Nachmittag an sich war jedoch trotz des Homeoffice sehr spannend
 
-
+[Nach oben](#Lernjournal)
 
 # 4. 07.12.2021
 
@@ -67,9 +80,11 @@ Der Nachmittag an sich war jedoch trotz des Homeoffice sehr spannend
 
 Keine
 
-
+[Nach oben](#Lernjournal)
 
 # 5. 14.12.2021
+
+Heute hatten wir die erste Prüfung in diesem Modul. Mir ist sie ziemlich leicht gefallen und ich denke eine Fünf sollte schon drinneliegen!
 
 | Topics | Learnings |
 | ------ | --------- |
@@ -80,9 +95,11 @@ Keine
 
 Die heutige Lektion war wieder einmal sehr spannend. Jedoch habe ich wohl die Prüfung ein wenig verhauen.
 
-
+[Nach oben](#Lernjournal)
 
 # 6. 04.01.2022
+
+In der heutigen Lektion ging es wieder Weiter mit dem Arbeiten am Passwortmanager. Dazu haben wir noch einen Input zur Verschlüsselung und Aufgaben dazu erhalten.
 
 | Topics | Learnings |
 | ------ | --------- |
@@ -93,15 +110,33 @@ Die heutige Lektion war wieder einmal sehr spannend. Jedoch habe ich wohl die Pr
 
 Keine
 
-
+[Nach oben](#Lernjournal)
 
 # 7. 11.01.2022
+
+Wir haben den Passwortmanager abgeschlossen und mit Aufgaben zum Ablagekonzept angefangen. Dabei haben wir viel über verschiedenste Ablagekonzepte gelernt und selber auch ein eigenes entwickelt.
 
 | Topics | Learnings |
 | ------ | --------- |
 |Theorie und Übung zum Ablagekonzept|Warum braucht es ein Ablagekonzept und was ist effektiv und was eher nicht auch haben wir auf unserem eigenen Pc begonnen, ein Ablagekonzept einzurichten.|
 |Quiz zum Repetieren|Nochmals aufgefrischt, was wir alles schon im Modul hatten und die learnings Letzter lektion nochmals geübt.|
 
-## 6.1 Anmerkungen
+## 7.1 Anmerkungen
 
 Kurzweiliger Nachmittag
+
+[Nach oben](#Lernjournal)
+
+# 8.
+
+...Heute war ich abwesend, da ich Corona hatte und habe desshalb nicht wirklich viel zu schreiben.
+
+## 8.1 Anmerkungen
+
+-
+
+[Nach oben](#Lernjournal)
+
+# 9.
+
+[Zurück](\\)
