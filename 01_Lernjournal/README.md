@@ -15,6 +15,10 @@
   - [6.1 Anmerkungen](#61-Anmerkungen)
 - [7. Lektion](#7-11012022)
   - [7.1 Anmerkungen](#71-Anmerkungen)
+- [8. Lektion](#8-18012022)
+  - [8.1 Anmerkungen](#81-Anmerkungen)
+- [9. Lektion](#9-25012022)
+  - [9.1 Anmerkungen](#91-Anmerkungen)
 
 # 1. 16.11.2021
 
@@ -127,7 +131,7 @@ Kurzweiliger Nachmittag
 
 [Nach oben](#Lernjournal)
 
-# 8.
+# 8. 18.01.2022
 
 ...Heute war ich abwesend, da ich Corona hatte und habe desshalb nicht wirklich viel zu schreiben.
 
@@ -137,6 +141,12 @@ Kurzweiliger Nachmittag
 
 [Nach oben](#Lernjournal)
 
-# 9.
+# 9. 25.01.2022
+
+Heute habe ich noch die Letzten Schliffe an meinem Repository vorgenommen und es mit Links versehen. Ich habe also alle Einträge geordnet, verlinkt und korrigiert.
+
+# 9.1 Anmerkungen
+
+Keine anmerkungen zur Lektion. Trotz fehlender Lehrpersohn war es angenehm ruhig.
 
 [Nach oben](#Lernjournal) _ [Zurück](..\README.md)
