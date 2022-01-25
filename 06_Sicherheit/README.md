@@ -1,6 +1,6 @@
-# Sicherheit <!-- omit in toc -->
+# Sicherheit
 
-# Inhaltsverzeichnis <!-- omit in toc -->
+# Inhaltsverzeichnis
 - [1. Checkliste des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
 - [2. Individuelle Quelle](#2-individuelle-quelle)
 
@@ -10,3 +10,5 @@
 
 # 2. Individuelle Quelle
 *Kriterium 12 der LB2*
+
+[Zurück](..\README.md)

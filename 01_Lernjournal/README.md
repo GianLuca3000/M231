@@ -138,5 +138,3 @@ Kurzweiliger Nachmittag
 [Nach oben](#Lernjournal)
 
 # 9.
-
-[Zurück](\)
