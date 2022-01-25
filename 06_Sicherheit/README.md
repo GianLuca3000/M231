@@ -11,4 +11,4 @@
 # 2. Individuelle Quelle
 *Kriterium 12 der LB2*
 
-[Zurück](..\README.md)
+[Zurück](..\..\README.md)
