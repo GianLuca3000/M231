@@ -139,6 +139,4 @@ Kurzweiliger Nachmittag
 
 # 9.
 
-[Nach oben](#Lernjournal)
-
-[Zurück](..\..\)
+[Nach oben](#Lernjournal) _ [Zurück](..\README.md)
