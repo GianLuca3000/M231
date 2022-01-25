@@ -24,3 +24,4 @@ Die Infos zu den Managern sind von:
 https://docs.datenschutz.ch/u/d/publikationen/formulare-merkblaetter/merkblatt_passwortmanager.pdf
 
 [Nach oben](#Passwortverwaltung)
+[Zurück](..\README.md)

@@ -12,3 +12,4 @@ Für meine Schulsachen benutzte ich One Drive weil es
 2. Wir im Betrieb Microsoft Dienste benutzten. Also sind auch alle meine Dateien von der Arbeit und Schule am selben Ort gespeichert.
 
 [Nach oben](#Backupkonzept)
+[Zurück](..\README.md)
