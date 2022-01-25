@@ -9,5 +9,4 @@
 
 # Quellen
 
-[Nach oben](#Programmanalyse)
-[Zurück](..\README.md)
+[Nach oben](#Programmanalyse) _ [Zurück](..\README.md)

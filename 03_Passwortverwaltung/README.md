@@ -23,5 +23,4 @@ Einrichten musste ich das OnePassword auch nicht selber. Jedoch kann ich von der
 Die Infos zu den Managern sind von:
 https://docs.datenschutz.ch/u/d/publikationen/formulare-merkblaetter/merkblatt_passwortmanager.pdf
 
-[Nach oben](#Passwortverwaltung)
-[Zurück](..\README.md)
+[Nach oben](#Passwortverwaltung) _ [Zurück](..\README.md)
